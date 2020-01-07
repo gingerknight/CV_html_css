@@ -1,11 +1,23 @@
 body {
-  background-color: #f8f3d4;
+  background-color: #e5d8bf;
 }
 
 hr {
-  border-color: #00b8a9;
+  border-color: #e47312;
   border-style: dotted none none;
   border-width: 15px;
   height: 0px;
   width: 10%;
+}
+
+h1 {
+  color: #94aa2a;
+  font-family: Georgia, sans-serif;
+  font-weight: bold;
+
+
+}
+
+h3 {
+  color: #d55252;
 }
